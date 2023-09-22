@@ -1,1 +1,2 @@
 all today classes cancel 
+learn git ,perform git init,clone,commit -m,push
